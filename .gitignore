@@ -1,0 +1,35 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# IDE files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.tmp
+
+# Blender backup files and unused root exports
+*.blend1
+/*.fbx
+
+# Generated QA frame sequences; keep compact preview assets
+Previews/DirectActionQA/
+Previews/RunForwardViews/
+Previews/Run_BackwardViews/
+Previews/Run_LeftViews/
+Previews/Run_RightViews/
+Previews/UserVideoFrames/
+Previews/V3Test/
+
+# OS files
+.DS_Store
+Thumbs.db
